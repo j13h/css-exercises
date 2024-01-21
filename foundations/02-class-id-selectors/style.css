@@ -1,0 +1,21 @@
+*{
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.redback{
+background-color: red;
+}
+
+.large{
+font-size: 24px;
+}
+
+#greenback{
+background-color: green;
+font-weight: bold;
+}
+
+#blue{
+font-size: 36px;
+color: blue;
+}
